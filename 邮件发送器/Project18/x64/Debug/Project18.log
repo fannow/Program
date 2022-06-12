@@ -1,0 +1,3 @@
+﻿  TestSMailer.cpp
+C:\Users\18533\source\repos\Project18\Project18\TestSMailer.cpp(16,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project18.vcxproj -> C:\Users\18533\source\repos\Project18\x64\Debug\Project18.exe
