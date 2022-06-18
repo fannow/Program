@@ -1,0 +1,11 @@
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/code/CMakeFiles/log.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/code/CMakeFiles/edit_cache.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/code/CMakeFiles/rebuild_cache.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/cgi/CMakeFiles/cgi.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/cgi/CMakeFiles/edit_cache.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/cgi/CMakeFiles/rebuild_cache.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/main/CMakeFiles/edit_cache.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/main/CMakeFiles/main.dir
+C:/Users/18533/Desktop/cmsv/out/build/x64-Debug/main/CMakeFiles/rebuild_cache.dir
